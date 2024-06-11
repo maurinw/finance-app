@@ -15,7 +15,7 @@ export const metadata: Metadata = {
   title: "FinTrack",
   description: "Finance tracking app",
   icons: {
-    icon: '/icons/logo.svg'
+    icon: '/icons/logo-darkmode.svg'
   }
 };
 
